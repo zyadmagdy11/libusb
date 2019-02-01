@@ -1,4 +1,4 @@
-/*
+﻿/*
  * libusb strerror code
  * Copyright © 2013 Hans de Goede <hdegoede@redhat.com>
  *
