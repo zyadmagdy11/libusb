@@ -260,3 +260,4 @@ Then you should modify it to have:
 #else
   if (dev->config[0].MaxPower < 250)
 #endif
+03000000100800000100000006010000,Twin USB Gamepad,platform:Mac OS X,a:b4,b:b2,x:b6,y:b0,back:b16,start:b18,leftstick:b20,rightstick:b22,leftshoulder:b8,rightshoulder:b10,dpup:h0.1,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,leftx:a0,lefty:a2,rightx:a6,lefttrigger:b12,righttrigger:b14,
